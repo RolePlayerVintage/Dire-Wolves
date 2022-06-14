@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "direwolves",
+  "name": "Dire-Wolves",
+  "description" : "Adds dire wolves, a larger and more dangerous species of canid.",
+  "authors": ["Tyranork"],
+  "version": "0.1.0",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "dependencies": {
+	"game": "1.16.5"}
+	
+}
